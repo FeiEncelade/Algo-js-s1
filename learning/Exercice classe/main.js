@@ -37,10 +37,7 @@ console.log(salameche)
 
 carapuce.attackPokemon(salameche)
 
-
-// const dammage = Pokemon.atk -= Pokemon.def
-
-console.log(salameche.hp)
+// 7. Faire un while tant que l'un des deux a plus de hp
 
 while (salameche.hp >= 0 || carapuce.hp >= 0) {
 
